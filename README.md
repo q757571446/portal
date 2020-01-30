@@ -14,6 +14,8 @@ Learn how it came to be: [SoLiD Project](https://solidproject.org/).
 
 SoLiD China: [SoLiD 中文社区](https://learnsolid.cn).
 
+To become a SoLiD developer, please view this roadmap: [SoLiD Roadmap](https://github.com/learnsolid/solid-roadmap).
+
 ## What is Pod
 
 Pods are where you store your data. Your WebID lets you login to SoLiD apps and Pods as well as letting you connect to other people using SoLiD.
