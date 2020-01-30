@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable import/extensions */
 import React, { Component } from 'react';
 import qs from 'qs';
@@ -5,6 +6,7 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { observer, inject } from 'mobx-react';
 import styled from 'styled-components';
+import { ProviderLogin } from '@inrupt/solid-react-components';
 
 import BasicFooter from '@/layouts/LBasic/Footer';
 
@@ -59,6 +61,7 @@ class SignIn extends Component {
             <TitleLogo src="https://design.inrupt.com/atomic-core/img/solid.svg" width="250px" />
             <Title>Hello, SoLiD Portal</Title>
           </IndexWrapper>
+          <ProviderLogin />
         </main>
         <BasicFooter className={`${PREFIX}-footer`} />
       </div>
