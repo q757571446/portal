@@ -1,0 +1,22 @@
+.baseTable-wrapper {
+  .table-search-wrapper,
+  .self-table-wrapper,
+  .pagWrapper {
+    background: #fff;
+  }
+  .table-search-wrapper {
+    margin-bottom: 30px;
+    padding: 30px;
+  }
+  .pagWrapper {
+    margin-top: 20px;
+    padding: 10px 0;
+    text-align: right;
+  }
+}
+.ant-calendar-range-middle {
+  margin-left: -12px;
+}
+.ant-calendar-range-right .ant-calendar-date-input-wrap {
+  margin-left: 0;
+}

@@ -59,6 +59,18 @@ $ npm install
 $ npm start
 ```
 
+### Lint
+
+```shell
+$ npm lint:staged
+```
+
+### Production
+
+```shell
+$ npm run build
+```
+
 ## Contributing
 
 Read our contributing guide and let's build a better portal together.

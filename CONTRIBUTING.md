@@ -66,8 +66,8 @@ After cloning portal, run npm install to fetch its dependencies. Then, you can r
 
 1. `npm start` runs Portal website locally.
 
-1. `npm run lint` checks the code style.
+1. `npm run lint:staged` checks the code style.
 
 1. `npm test` runs the complete test suite.
 
-1. `npm run dist` creates UMD build of portal.
+1. `npm run build` creates UMD build of portal.

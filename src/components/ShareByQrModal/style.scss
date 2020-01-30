@@ -1,0 +1,35 @@
+.goPoints {
+  &.special .content {
+    padding: 0;
+  }
+  .content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+    padding: 40px 0;
+    text-align: center;
+    .title {
+      margin-bottom: 20px;
+      h5 {
+        color: #333;
+        font-weight: 500;
+        font-size: 16px;
+      }
+      p {
+        color: #666;
+        font-size: 12px;
+        line-height: 22px;
+      }
+    }
+    .cont-left {
+      flex: 1;
+      height: 100%;
+    }
+  }
+  .code {
+    width: 200px;
+    height: 200px;
+  }
+}

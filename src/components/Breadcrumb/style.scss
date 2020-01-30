@@ -1,0 +1,16 @@
+.breadcrumb {
+  color: rgba(0, 0, 0, 0.43);
+  font-size: 12px;
+  line-height: 50px;
+  span {
+    .breadItem-separator {
+      padding: 0 4px;
+    }
+  }
+  span:last-child .breadItem-label {
+    color: rgba(0, 0, 0, 0.64);
+  }
+  span:last-child .breadItem-separator {
+    display: none;
+  }
+}
