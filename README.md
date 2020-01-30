@@ -34,6 +34,8 @@ No more ping-ponging between documents, spreadsheets, and niche workflow apps to
 1. [ ] Calendar - Schedule your daily life and work and share to your friends.
 1. [ ] Unstructured data manager - Manage your unstructured data such as music, file, photos, documents and so on.
 
+Hope our efforts will allow more ordinary people to use SoLiD !
+
 ## Built With
 
 1. React.js - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -58,7 +60,9 @@ $ yarn start
 
 ## Contributing
 
-Under Construction.
+Read our contributing guide and let's build a better portal together.
+
+We welcome all contributions. Please read our [CONTRIBUTING.md](htps://github.com/steamory/portal/CONTRIBUTING.md) first. You can submit any ideas as pull requests or as GitHub issues. If you'd like to improve code, check out the Development Instructions and have a good time! :)
 
 ## License
 
