@@ -39,6 +39,8 @@ No more ping-ponging between documents, spreadsheets, and niche workflow apps to
 
 Hope our efforts will allow more ordinary people to use SoLiD !
 
+![authorized](https://inrupt.com/sites/default/files/2018-10/Thomas_explainer.png)
+
 ## Built With
 
 1. React.js - A declarative, efficient, and flexible JavaScript library for building user interfaces.
