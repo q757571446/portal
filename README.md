@@ -26,13 +26,13 @@ No more ping-ponging between documents, spreadsheets, and niche workflow apps to
 
 ## Features
 
-*[] SSO - Login and register in any app with SoLiD.
-1. [] Profile - View and edit your own profile and share your profile to any applications and friends.
-1. [] People - View your friends and share data to your friends.
-1. [] Chatting - Chatting with your friends.
-1. [] Authorization management - Manage authorized data and which friends or applications are authorized.
-1. [] Calendar - Schedule your daily life and work and share to your friends.
-1. [] Unstructured data manager - Manage your unstructured data such as music, file, photos, documents and so on.
+1. [ ] SSO - Login and register in any app with SoLiD.
+1. [ ] Profile - View and edit your own profile and share your profile to any applications and friends.
+1. [ ] People - View your friends and share data to your friends.
+1. [ ] Chatting - Chatting with your friends.
+1. [ ] Authorization management - Manage authorized data and which friends or applications are authorized.
+1. [ ] Calendar - Schedule your daily life and work and share to your friends.
+1. [ ] Unstructured data manager - Manage your unstructured data such as music, file, photos, documents and so on.
 
 ## Built With
 
