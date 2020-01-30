@@ -43,6 +43,7 @@ Hope our efforts will allow more ordinary people to use SoLiD !
 1. Mobx - Simple, scalable state management.
 1. Ant Design - A UI Design Language and React UI library.
 1. styled-components - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
+1. solid-react-components - Reusable components for Solid React applications
 
 ## Quickstart
 
