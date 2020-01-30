@@ -1,6 +1,6 @@
 # Portal
 
-Portal is an data browser that allows you to explore your personal data in SoLiD Pod.
+Portal is a data browser that allows you to explore your personal data in SoLiD Pod.
 
 ![Inrupt Portotype](https://inrupt.com/sites/default/files/2018-10/Things%2BThomas_v2.png)
 
@@ -22,7 +22,7 @@ Pods are where you store your data. Your WebID lets you login to SoLiD apps and 
 
 ## What is Portal
 
-Portal is an data browser that allows you to explore your personal data in SoLiD Pod.
+Portal is a data browser that allows you to explore your personal data in SoLiD Pod.
 
 All interfaces of the Portal are customizable and consist of documents. We make documents into applications.
 
