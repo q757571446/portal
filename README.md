@@ -26,7 +26,7 @@ No more ping-ponging between documents, spreadsheets, and niche workflow apps to
 
 ## Features
 
-1. [] SSO - Login and register in any app with SoLiD.
+*[] SSO - Login and register in any app with SoLiD.
 1. [] Profile - View and edit your own profile and share your profile to any applications and friends.
 1. [] People - View your friends and share data to your friends.
 1. [] Chatting - Chatting with your friends.
