@@ -49,13 +49,13 @@ Hope our efforts will allow more ordinary people to use SoLiD !
 
 ```shell
 $ git clone https://github.com/steamory/portal
-$ yarn
+$ npm install
 ```
 
 ### Run
 
 ```shell
-$ yarn start
+$ npm start
 ```
 
 ## Contributing
