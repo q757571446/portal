@@ -33,6 +33,7 @@ No more ping-ponging between documents, spreadsheets, and niche workflow apps to
 1. [ ] Authorization management - Manage authorized data and which friends or applications are authorized.
 1. [ ] Calendar - Schedule your daily life and work and share to your friends.
 1. [ ] Unstructured data manager - Manage your unstructured data such as music, file, photos, documents and so on.
+1. [ ] i18n - Compatible with Chinese, English, German and Japanese.
 
 Hope our efforts will allow more ordinary people to use SoLiD !
 
